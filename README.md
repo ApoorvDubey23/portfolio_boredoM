@@ -7,6 +7,8 @@
 
 ## WHAT you need to do 
 - add your data into the places including Images , Project links , Project Images and every bit of data to be relevant about  you and where needed 
+
+
 **IMPORTANT**
 **ADD your resume data in the TOGETHER.JSX file so that the AI answers questions related to your resume currently my resume's data has been kept there , dont forget**
 
